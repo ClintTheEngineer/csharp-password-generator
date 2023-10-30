@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fTEwsIAGCfC+7i46lURp8zYQPkRCP64vlUTaBVOOJgohtuRqPLZ/hM0hq9yLfZ7QrmyBeJDAYYyDvKHXIltSsw==",
+  "success": true,
+  "projectFilePath": "E:\\alexa\\Documents\\Projects\\learn-csharp\\learn-csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

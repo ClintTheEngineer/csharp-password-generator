@@ -1,0 +1,16 @@
+E:\alexa\Documents\Projects\learn-csharp\bin\Debug\net5.0\learn-csharp.exe
+E:\alexa\Documents\Projects\learn-csharp\bin\Debug\net5.0\learn-csharp.deps.json
+E:\alexa\Documents\Projects\learn-csharp\bin\Debug\net5.0\learn-csharp.runtimeconfig.json
+E:\alexa\Documents\Projects\learn-csharp\bin\Debug\net5.0\learn-csharp.runtimeconfig.dev.json
+E:\alexa\Documents\Projects\learn-csharp\bin\Debug\net5.0\learn-csharp.dll
+E:\alexa\Documents\Projects\learn-csharp\bin\Debug\net5.0\learn-csharp.pdb
+E:\alexa\Documents\Projects\learn-csharp\obj\Debug\net5.0\learn-csharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\alexa\Documents\Projects\learn-csharp\obj\Debug\net5.0\learn-csharp.AssemblyInfoInputs.cache
+E:\alexa\Documents\Projects\learn-csharp\obj\Debug\net5.0\learn-csharp.AssemblyInfo.cs
+E:\alexa\Documents\Projects\learn-csharp\obj\Debug\net5.0\learn-csharp.csproj.CoreCompileInputs.cache
+E:\alexa\Documents\Projects\learn-csharp\obj\Debug\net5.0\learn-csharp.dll
+E:\alexa\Documents\Projects\learn-csharp\obj\Debug\net5.0\ref\learn-csharp.dll
+E:\alexa\Documents\Projects\learn-csharp\obj\Debug\net5.0\learn-csharp.pdb
+E:\alexa\Documents\Projects\learn-csharp\obj\Debug\net5.0\learn-csharp.genruntimeconfig.cache
+E:\alexa\Documents\Projects\learn-csharp\obj\Debug\net5.0\learn-csharp.csproj.AssemblyReference.cache
+E:\alexa\Documents\Projects\learn-csharp\obj\Debug\net5.0\refint\learn-csharp.dll
